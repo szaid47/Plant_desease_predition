@@ -1,0 +1,24 @@
+Python virtual environment
+
+venv/
+*.venv/
+.venv/
+
+Python cache
+
+pycache/
+*.pyc
+
+Large model files
+
+*.pth
+*.pt
+
+Streamlit
+
+.streamlit/
+
+OS-specific files
+
+.DS_Store
+Thumbs.db
